@@ -1,7 +1,15 @@
 body {
-    font-family: helvetica;
+    font-family: 'Avenir',Arial, sans-serif;
+    font-size: 15;
+    background-color: lightgrey;
   }
-  
+h1 {
+      size: 24;
+}
+
   ul {
-    font-family: monospace;
+    font-family: 'Avenir',Arial, sans-serif;
+  }
+  iframe {
+      size: 500px;
   }
