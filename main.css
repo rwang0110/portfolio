@@ -1,15 +1,80 @@
+header {
+    text-align: center;
+    background-color: white;
+}
+.date {
+    text-align: center;
+}
 body {
-    font-family: 'Avenir',Arial, sans-serif;
-    font-size: 15;
-    background-color: lightgrey;
+    font-family: 'Source Sans Pro', sans-serif;    
+    font-size: 20px;
+    background-color: white;
+    text-align: left;
   }
-h1 {
-      size: 24;
+
+.propic {
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+.flex-container {
+    display: flex;
+    flex-direction: row;
 }
 
+.about {
+    margin-left: 100px;
+    margin-right: 50px;
+    width: 600px;
+    height: 375px;
+}
+.about-me {
+    text-indent: 40px;
+}
+.honors {
+    margin-left: 50px;
+    margin-right: 100px;
+    width: 600px;
+    height: 375px;
+}
+
+h3 {
+    text-align: center;
+}
   ul {
-    font-family: 'Avenir',Arial, sans-serif;
+    font-family: 'Avenir', Arial, sans-serif;
   }
-  iframe {
-      size: 500px;
+
+.fun {
+    margin: auto;
+    text-align: left;
+    width: 40vw;
+}
+.links {
+    margin-top: 50pt;
+    text-align: center;
+}
+.fa {
+    font-size: 120px;
+    width: 35px;
+    height: 25px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 7px;
   }
+.fa-envelope {
+    color: gray;
+}
+.fa-soundcloud {
+    color: gray;
+}
+.fa-facebook {
+    color: gray;
+}
+.fa-linkedin {
+    color: gray;
+}
+.fa-github {
+    color: gray;
+}
