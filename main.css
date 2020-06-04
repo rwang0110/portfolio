@@ -20,23 +20,24 @@ body {
 }
 .flex-container {
     display: flex;
-    flex-direction: row;
+    align-items: center;
+    flex-direction: column;
 }
 
 .about {
     margin-left: 100px;
-    margin-right: 50px;
-    width: 600px;
-    height: 375px;
+    margin-right: 100px;
+    width: 70vw;
+    height: 60vh;
 }
 .about-me {
     text-indent: 40px;
 }
 .honors {
-    margin-left: 50px;
+    margin-left: 100px;
     margin-right: 100px;
-    width: 600px;
-    height: 375px;
+    width: 70vw;
+    height: 60vh;
 }
 
 h3 {
@@ -53,7 +54,7 @@ h3 {
 .fun {
     margin: auto;
     text-align: left;
-    width: 40vw;
+    width: 70vw;
 }
 .links {
     margin-top: 50pt;
