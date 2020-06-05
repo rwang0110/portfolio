@@ -28,7 +28,7 @@ body {
     margin-left: 100px;
     margin-right: 100px;
     width: 70vw;
-    height: 60vh;
+    height: 40vh;
 }
 .about-me {
     text-indent: 40px;
@@ -37,18 +37,23 @@ body {
     margin-left: 100px;
     margin-right: 100px;
     width: 70vw;
-    height: 60vh;
+    height: 40vh;
 }
 
+.experience {
+    margin-left: 100px;
+    margin-right: 100px;
+    width: 70vw;
+    height: 40vh;
+}
+.projects {
+    margin-left: 100px;
+    margin-right: 100px;
+    width: 70vw;
+    height: 40vh;
+}
 h3 {
     text-align: center;
-}
-.exp-and-projs {
-    margin: auto;
-    text-align: left;
-    width: 40vw;
-    display: flex;
-    flex-direction: row;
 }
 
 .fun {
